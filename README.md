@@ -1,2 +1,3 @@
 # python_gaem
-game python :DDD
+This is an adventure game progammed in python by an idiot.
+
